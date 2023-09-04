@@ -14,7 +14,7 @@ Este manual se ha creado con el propósito de guiar eficientemente al desarrolla
 1. **Clone el Repositorio de GitHub:**
 
    ```shell
-   git clone "https://gitlab.com/01septiembre2023sasf/fabio-avila/-/tree/favila-teorica/PRUEBA_TEORICA/ALGORITMOS/ALGORITMO%201?ref_type=heads"
+   git clone "https://github.com/SuperShadow38/CRUD-SPRING-AND-ANGULAR/edit/master/FRONTEND/README.md"
  
 
 2. **Navega hasta el directorio de tu proyecto en la terminal.**
