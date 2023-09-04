@@ -1,0 +1,25 @@
+@import '~@fortawesome/fontawesome-free/css/all.css';
+
+nav > a {
+    padding: 5px;
+    text-decoration: none;
+}
+
+/* Agrega estilos al botón de login con icono de usuario */
+.btn-login {
+    display: flex;
+    align-items: center;
+    background-color: transparent;
+  }
+  
+  /* Estilos para el icono */
+  .btn-login .i {
+    font-size: 18px; /* Tamaño del icono */
+    margin-right: 50px; /* Espacio a la derecha del icono */
+  }
+  
+  
+/* styles.css */
+.custom-bg-color {
+  background-color: #ac38c6; /* Tu color personalizado aquí */
+}
