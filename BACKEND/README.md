@@ -25,7 +25,7 @@ Este formato permitirá al encargado de conllevar el proyecto poder trabajar de 
 1. Clona el repositorio desde el control de versiones Git en el servidor de despliegue:
 
    ```shell
-   git clone "https://gitlab.com/01septiembre2023sasf/fabio-avila/-/tree/favila-teorica/PRUEBA_TEORICA/ALGORITMOS/ALGORITMO%201?ref_type=heads"
+   git clone "https://github.com/SuperShadow38/CRUD-SPRING-AND-ANGULAR/tree/master/BACKEND"
 
 ## Configuración de la Base de Datos
 
