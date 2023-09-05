@@ -16,10 +16,6 @@ Este formato permitirá al encargado de conllevar el proyecto poder trabajar de 
 2. Instala y configura un servidor de aplicaciones para poder implementar Spring Boot.
 3. Instala y configura PostgreSQL en el servidor para la base de datos.
 
-## EDR (Diagrama Entidad Relación)
-
-[Inserta aquí el enlace o la descripción del EDR si es necesario]
-
 ## Proceso de Despliegue
 
 1. Clona el repositorio desde el control de versiones Git en el servidor de despliegue:
